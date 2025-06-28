@@ -2,7 +2,7 @@
 
 
 # Vars
-$path = "$env:USERPROFILE\AppData\Roaming\.minecraft\mods"
+$path = "$env D:\.minecraft\mods"
 $filePattern = "tl_skin_cape*"
 
 # Execute the function in the background
